@@ -1,0 +1,52 @@
+_repo: Among-the-Meadow-People_34943
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Gordon, F. C.
+    alias: Gordon, Frederick C. (Frederick Charles)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '37343'
+    url: http://www.gutenberg.org/2009/agents/37343
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pierson, Clara Dillingham
+    gutenberg_agent_id: '8634'
+    url: http://www.gutenberg.org/2009/agents/8634
+description: Cover; Title Page; Copyright Page; Table of Contents; The Butterfly That
+  Went Calling; The Robins Build a Nest; The Selfish Tent-caterpillar; The Lazy Snail;
+  The Ant That Wore Wings; The Cheerful Harvestmen; The Little Spider's First Web;
+  The Beetle Who Did Not like Caterpillars; The Young Robin Who Was Afraid to Fly;
+  The Crickets' School; The Contented Earthworms; The Measuring Worm's Joke; A Puzzled
+  Cicada; The Tree Frog's Story; The Day When the Grass Was Cut; The Grasshopper and
+  the Measuring Worm Run a Race; Mr. Green Frog and His Visitors; The Dignified Walking-sticks.
+gutenberg_issued: '2011-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34943'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Natural history -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+- !lcsh 'Meadows -- Juvenile fiction'
+- !lcc 'PZ'
+tableOfContents: The butterfly that went calling -- The robins build a nest -- The
+  selfish tent-caterpillar -- The lazy snail -- An ant that wore wings -- The cheerful
+  harvestmen -- The little spider's first web -- The beetle who did not like caterpillars
+  -- The young robin who was afraid to fly -- The crickets' school -- The contented
+  earthworms -- The measuring worm's joke -- A puzzled cicada -- The tree frog's story
+  -- The day when the grass was cut -- The grasshopper and the measuring worm run
+  a race -- Mr. Green Frog and his visitors -- The dignified walking-sticks -- The
+  day of the great storm -- The story of lily-pad island -- The grasshopper who wouldn't
+  be scared -- The earthworm half-brothers -- A gossiping fly -- The frog-hoppers
+  go out into the world -- The mosquito tries to teach his neighbors -- The frog who
+  thought herself sick -- The katydid's quarrel -- The last party of the season.
+title: Among the Meadow People
+url: http://www.gutenberg.org/ebooks/34943
